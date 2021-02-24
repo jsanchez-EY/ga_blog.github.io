@@ -13,7 +13,7 @@ Copy the maven GitHub package dependency of the project being consumed to your p
 If you have not done this already,
 1. Create a Personal Access Token by navigating to your Github **`profile -> Settings -> Developer Settings -> Personal Access Tokens`**
 
- ![Personal Access Token](https://github.com/ey-advisory-technology-testing/etl-core-libraries/blob/main/doc/PAT.JPG)
+ ![Personal Access Token](https://github.com/ey-advisaory-technology-testing/etl-core-libraries/blob/main/doc/PAT.JPG)
 
 2. Make sure you **enable the SSO option** next to the token so your IDE can access Github without needing other permissions. (This is very important to allow access to upload/download dependencies)
 
