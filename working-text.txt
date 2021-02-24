@@ -1,0 +1,43 @@
+Issue: Repository blocked from downloading
+If download of repository is blocked due to any restrictions, please see the below work arounds in order of convenience:
+
+1.	Upload framework to GitHub and transfer to client machine
+2.	Zip-up framework and upload to a shared drive for download
+3.	Copy files to notepad and email to client
+Please note that if the workarounds are used manual updates will need to be taken from the central repository. If framework is not routinely kept up to date, the practice may not be able to continue supporting the framework.
+
+Issue: IntelliJ run button not executing
+Below please find the steps to fix the issue:
+1.	File->Settings->Plugins
+2.	Uncheck Gradle
+ 
+3.	Click Apply
+4.	Restart IntelliJ
+5.	Click Run
+Issue: Maven dependencies not downloading
+Alternative method 1 (preferred):
+If you are unable to download dependencies directly through the pom, you can manually setup maven by copying the .m2 folder from the SharePoint and exporting it to specified location on your laptop or VDI.
+SharePoint link: https://sites.ey.com/:u:/s/TestingiCOP/TestAutomation/EbDwXaiL3zRCr1j_X3746U4BJ8UXbFmWcZ63R1nHk4IueQ
+Location to unzip to:
+C:\Users\{your_username}
+
+If you are unable to download maven at all, you can send over the following Apache.zip.
+SharePoint link: https://sites.ey.com/:u:/s/TestingiCOP/TestAutomation/EZo9K4R-KI1DqJn2kyDL_pQBB5IC5IUfqG7mPyUHfsmUxw
+Location to unzip to:
+C:\Program Files
+
+Alternative method 2:
+If you are unable to download dependencies directly through the pom, you can manually download the dependencies listed at the below link from https://mvnrepository.com/.
+
+List of dependencies:
+https://sites.ey.com/:w:/s/TestingiCOP/TestAutomation/EWSnYPRJ9RxLmDN_lnByUXkBZ0cOUsrbmdQXtsb7Ko8zGg
+Steps to manually add maven dependencies as jars:
+1.	Go to https://mvnrepository.com/
+2.	Download all dependencies above as jars
+3.	Open IntelliJ
+4.	File->Project Structure->Modules->Dependencies
+5.	Click +
+6.	Select Jars or directories
+7.	Select Jar file
+8.	Click ok
+9.	Repeat for all dependencies
