@@ -1,8 +1,16 @@
+![image_12.png](images/doc/media/image_12.png)
+
+##  If you are reading this from a PDF file, you can get the latest copy of the documentation from this [link](https://github.com/ey-advisory-technology-testing/NGTP_Docs/wiki)
 Welcome to the NextGen Testing Platform wiki! A Description of our pages are as follows:
-* **Installation Pre-Requisites:** details on installation and configuration of platform pre-requisites such as java, maven, and IntelliJ IDE
-* **Framework Installation:** details on downloading the framework from GitHub and installing into your IDE
-* **Forking Your Branch:** overview of the forking strategy expected of product teams
-* **Process to Create and Use Forks Effectively:** in depth step by step on creating and maintaining effective forks
-* **Development, Pulls and Pushes (Merging Branches and Branch Management):** guide on how to properly take updates from as they are added to the NexGen testing platform into your fork, propose updates from your fork to the project origin, and manage your branching structure within your NextGen Testing Platform fork
-* **Setting up CI Pipelines:** guide on setting up CI Pipelines leveraging CircleCI 
-* **Product Versioning:** guide on versioning practices to be followed for NextGen Testing Platform updates and releases
+* **Installation Pre-requisites:** Details on installation and configuration of platform pre-requisites such as java, maven, and IntelliJ IDE
+* **Framework Installation:** Details on downloading the framework from GitHub and installing into your IDE
+* **Getting Started with NGTP:** Details and illustrations on how to work with Next Gen Testing Platform (NGTP)
+* **UI Installation:** Details on downloading the NGTP UI and installing it
+* **Getting Started with NGTP UI:** Details and illustrations on how to work with NGTP UI
+* **GitHub Usage Guidelines** How to subscribe yourself to get updates on the most recent changes to NGTP
+* **Setting up CI Pipelines:** Guide on setting up GitHub Actions CI Pipelines
+* **Product Versioning:** Guide on versioning practices to be followed for NGTP updates and releases
+* **Integrations:** How to integrate with common 3rd party software
+* **Troubleshooting:** Common pitfalls and how to avoid them and fix them
+
+***
