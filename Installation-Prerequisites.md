@@ -50,6 +50,7 @@ java may be uninstalled from your computer by EY
   * Go to the **EY Appstore** (https://ey.service-now.com/ey/) → Go to **“Order Something”** → click **“Get Software”** → Search **“Java Uninstall Exception 1.0”** → click **“request”**
 * Install JDK 14 from https://www.oracle.com/java/technologies/javase-downloads.html
 * JDK 11 or above will be the most compatible. Always use Long Term Support (LTS) versions (JDK8, JDK11, JDK14)
+
 ## Install Maven
 * Download latest version of apache-maven from [here](https://maven.apache.org/download.cgi)
 * Unzip the archive to a folder in your local machine
@@ -63,6 +64,7 @@ java may be uninstalled from your computer by EY
 4. On the Advanced tab, select Environment Variables, and then click new
 5. Furnish the variable name and path. Click OK
 ```
+
 ### Version Control System
 
 #### Subversion
@@ -142,7 +144,7 @@ Now, navigate to `File -> Settings -> Version Control` and select GitHub. Click 
 
 ## Obtaining and Configuring NGTP License
 ### Activation Required
-The library is license restricted with a digitally-signed EY license. You will need a license file or, a license token added to your environment variables to activate the tool. Get a limited duration license from our [NGTP License Administrators](mailto:874d64a4.EYGS.onmicrosoft.com@amer.teams.ms?subject=NGTP%20License%20Request&body=Please%20provide%20a%20limited%20NGTP%20license.%20Below%20are%20the%20details:%0D%0A1.Name:%0D%0A2.Business%20case:%0D%0A3.Engagement%20Duration:). Email them the following details to help create your license
+The library is license restricted with a digitally-signed EY license. You will need a license file or, a license token added to your environment variables to activate the tool. Get a limited duration license from our <a href="mailto:874d64a4.EYGS.onmicrosoft.com@amer.teams.ms?subject=NGTP%20License%20Request&body=Please%20provide%20a%20limited%20NGTP%20license.%20Below%20are%20the%20details:%0D%0A1.Name:%0D%0A2.Business%20case:%0D%0A3.Engagement%20Duration:">NGTP License Administrators</a>. Email them the following details to help create your license
 * Your full name
 * Business case
 * Engagement duration (for client projects)

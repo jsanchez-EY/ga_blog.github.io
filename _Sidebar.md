@@ -11,6 +11,7 @@
     1. [Inside client network](Installing-NGTP#inside-client-network)
 4. [NGTP UI Installation](NGTP-UI-Installation)
 5. [Getting Started With NGTP](Getting%20Started%20With%20NGTP)
+   1. [List of NGTP Libraries](List-of-NGTP-libraries)
 6. [Third-Party Integrations](third-party-integrations)
    1. [Setting up CI Pipelines](Setting-Up-CI-Pipelines)
 7. [Github Guidelines](GitHub-Guidelines)
