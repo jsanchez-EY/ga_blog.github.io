@@ -1,4 +1,5 @@
 ## Home
+
 ![image_12.png](images/doc/media/image_12.png)
 
 ##  If you are reading this from a PDF file, you can get the latest copy of the documentation from this [link](https://github.com/ey-advisory-technology-testing/NGTP_Docs/wiki)
