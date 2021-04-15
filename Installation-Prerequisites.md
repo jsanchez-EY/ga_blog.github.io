@@ -144,7 +144,7 @@ Now, navigate to `File -> Settings -> Version Control` and select GitHub. Click 
 
 ## Obtaining and Configuring NGTP License
 ### Activation Required
-The library is license restricted with a digitally-signed EY license. You will need a license file or, a license token added to your environment variables to activate the tool. Get a limited duration license from our <a href="mailto:874d64a4.EYGS.onmicrosoft.com@amer.teams.ms?subject=NGTP%20License%20Request&body=Please%20provide%20a%20limited%20NGTP%20license.%20Below%20are%20the%20details:%0D%0A1.Name:%0D%0A2.Business%20case:%0D%0A3.Engagement%20Duration:">NGTP License Administrators</a>. Email them the following details to help create your license
+The library is license restricted with a digitally-signed EY license. You will need a license file or, a license token added to your environment variables to activate the tool. Get a limited duration license from our <a href="mailto:8940fd65.EYGS.onmicrosoft.com@amer.teams.ms?subject=NGTP%20License%20Request&body=Please%20provide%20a%20limited%20NGTP%20license.%20Below%20are%20the%20details:%0D%0A1.Name:%0D%0A2.Business%20case:%0D%0A3.Engagement%20Duration:">NGTP License Administrators</a>. Email them the following details to help create your license
 * Your full name
 * Business case
 * Engagement duration (for client projects)
