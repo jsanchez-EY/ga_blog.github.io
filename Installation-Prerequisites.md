@@ -1,4 +1,7 @@
 # Installation Prerequisites
+
+![warning](images/resources/Github/warning.JPG)
+
 ## Hardware/Software Requirements
 
 <table>

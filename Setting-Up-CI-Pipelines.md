@@ -1,11 +1,2 @@
 # **Setting up CI Pipelines**
-* The Trunk master branch will have a CI pipeline setup using CircleCI to make sure every PR is
-tested before merged.
-* Once your Fork is setup, You can add CI pipelines to automate the build process using
-CircleCI as below:
-    * Go here https://circleci.com/integrations/github/
-    * Signup using GitHub account
-    * Select the repository you want to add CI
-    * Select Maven as build tool
-    * Click next until Pipeline runs
-    * That’s it! (These are the basics. You can read up scheduling jobs here: https://circleci.com/docs/2.0/workflows/)
+Every library must have a `.github/workflows` package with predefined workflows for PR merge request and Release process. Reach out to the Build & Implementation team to get the workflows. This will be run automatically in GitHub actions everytime you push a code to a branch or merge a code with the master, automatically releasing a new version of the project
