@@ -17,7 +17,7 @@ include:
   - Product-Versioning.md
   - Setting-Up-CI-Pipelines.md
   - third-party-integrations.md
-  - Using-a-GitHub-Hosted-Dependency-[EY-only].md
+  - Using-a-GitHub-Hosted-Dependency.md
   - Zalenium-Integration.md
   - remove-cucable-plugin-steps.md
   - Framework-Troubleshooting.md

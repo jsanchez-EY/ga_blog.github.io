@@ -1,4 +1,5 @@
 # How to Download Dependencies hosted in GitHub Packages
+
 A lot of our projects/repositories use JARs and libraries which we have deployed right within Github through its GitHub package registry. In order to use them, we need to do some configurations to your maven settings.xml and your GitHub account. Please follow the below steps diligently.
 
 Copy the maven GitHub package dependency of the project being consumed to your pom.xml. 
@@ -22,7 +23,7 @@ If you have not done this already,
  
 3. Make sure your IDE is pointing to an installed Maven binary and pointing to the corresponding settings.xml file (By default IntelliJ uses a bundled maven). You can usually find the settings.xml under the conf directory within your maven installation or within your .m2 directory wherever that is.
 
-![override-settings.xml.png](https://blog.rufer.be/assets/screenshots/override-settings.xml.png)
+![override-settings.xml.png](images/resources/intellij/override-settings.xml.png)
 
 4. Open your settings.xml file
 5. Add an active profile under `<activeProfiles></activeProfiles>`

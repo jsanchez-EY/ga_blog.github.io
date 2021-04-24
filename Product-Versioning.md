@@ -1,8 +1,11 @@
 # Product Versioning
-* We will be following the below versioning strategy for our projects.
+* We will be following the below semantic versioning strategy for our projects.
 * **Important**
   * <Major>.<Minor>.<Patch> e.g 1.0.0 (meaning 1st Major release with no minor
   updates or patches/fixes.
+
+  ![Semantic versioning](images/resources/intellij/versioning.png)
+
   * Every time, a major integration is added, update the major version number and
   push.
   * Every time you add a significant change or added new capability, update the
