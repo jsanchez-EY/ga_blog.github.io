@@ -1,0 +1,23 @@
+theme: jekyll-theme-slate
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - _Footer.md
+  - _Sidebar.md
+  - Home.md
+  - Installation-Prerequisites.md
+  - Installing-NGTP.md
+  - Getting-Started-With-NGTP.md
+  - GitHub-Guidelines.md
+  - List-of-NGTP-libraries.md
+  - NGTP-UI-Installation.md
+  - Product-Versioning.md
+  - Setting-Up-CI-Pipelines.md
+  - third-party-integrations.md
+  - Using-a-GitHub-Hosted-Dependency.md
+  - Zalenium-Integration.md
+  - remove-cucable-plugin-steps.md
+  - Framework-Troubleshooting.md
